@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.git/
+.idea/
+.vscode/
+train/
+test/
+validation/
+__pycache__
+*.pyc
+.ipynb_checkpoints
+.git
+.gitignore
+*.tar
+Laptop screen damage dertection.ipynb
+train
+validation
+test
