@@ -10,6 +10,6 @@ COPY app.py .
 COPY best_screen_damage_model.keras .
 COPY templates ./templates
 
-EXPOSE 5000
+EXPOSE 8080
 
 CMD ["python", "app.py"]
